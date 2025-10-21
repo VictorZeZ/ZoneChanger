@@ -25,8 +25,8 @@ It’s especially useful for games or apps that perform time-zone checks before 
 ## 📁 Files and Storage
 - **Source file:** `Program.cs`  
 - **Saved previous time zone file:**  
-  `%LocalAppData%\TzGameLauncher\prev_tz.txt`  
-  (The app automatically creates the `TzGameLauncher` folder under Local Application Data.)
+  `%LocalAppData%\ZoneChanger\prev_tz.txt`  
+  (The app automatically creates the `ZoneChanger` folder under Local Application Data.)
 
 ---
 
