@@ -7,7 +7,7 @@ It’s especially useful for games or apps that perform time-zone checks before 
 
 ## ✨ Key Features
 - 🧭 Interactive console menu with arrow-key navigation and **ENTER** to apply a selection.  
-- 🌍 Quick list of common Windows time zones (London, Berlin/Paris, New York, Los Angeles, Tehran, Delhi, Beijing).  
+- 🌍 Quick list of common Windows time zones (Baker Island, Alaska, Chicago, Buenos Aires, London, Riyadh/Moscow, Bangkok, Tokyo, Auckland).
 - 💾 Automatically saves your current system time zone before the first change.  
 - 🔁 Easily restore your previous time zone using the `reset` command.  
 - ⚙️ Simple CLI with commands: `start`, `reset`, `help`.

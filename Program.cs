@@ -15,13 +15,15 @@ class TimeZoneManager
     // List of popular timezones for quick selection
     private static readonly (string Id, string Description)[] PopularTimeZones = new (string, string)[]
     {
-        ("GMT Standard Time", "London"),
-        ("W. Europe Standard Time", "Berlin/Paris"),
-        ("Eastern Standard Time", "New York"),
-        ("Pacific Standard Time", "Los Angeles"),
-        ("Iran Standard Time", "Tehran"),
-        ("India Standard Time", "Delhi"),
-        ("China Standard Time", "Beijing")
+        ("Dateline Standard Time", "UTC−12 — Baker Island"),
+        ("Alaskan Standard Time", "UTC−9 — Alaska"),
+        ("Central Standard Time", "UTC−6 — Central US (Chicago)"),
+        ("Argentina Standard Time", "UTC−3 — Buenos Aires"),
+        ("GMT Standard Time", "UTC+0 — London"),
+        ("Arabian Standard Time", "UTC+3 — Riyadh/Moscow"),
+        ("SE Asia Standard Time", "UTC+6 — Bangkok"),
+        ("Tokyo Standard Time", "UTC+9 — Tokyo"),
+        ("New Zealand Standard Time", "UTC+12 — Auckland")
     };
 
     static void Main(string[] args)
